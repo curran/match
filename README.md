@@ -7,3 +7,7 @@ This library is intended for use mainly when working on interpreters that execut
 
 Initially conceived as part of the [lambda project](https://github.com/curran/lambda), a Lambda Calculus interpreter using PEG.js, CoffeeScript, and Underscore.
 
+See also:
+
+ * ["Haskell's Pattern Matching in CoffeeScript" thread on CoffeeScript mailing list](https://groups.google.com/forum/#!topic/coffeescript/6d_qbwiWuZA)
+ * [GitHub: nogizhopaboroda/f_context](https://github.com/nogizhopaboroda/f_context) A similar library.
