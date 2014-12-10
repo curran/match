@@ -15,7 +15,7 @@
 #  * `fns` An object where
 #    * keys are values of the property to match on, and
 #    * values are functions
-match = (property, fns) ->
+module.exports = (property, fns) ->
   (obj) ->
     fn = fns[obj[property]]
     if fn
