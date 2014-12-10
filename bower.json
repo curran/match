@@ -1,0 +1,28 @@
+{
+  "name": "match",
+  "version": "0.0.0",
+  "homepage": "https://github.com/curran/match",
+  "authors": [
+    "Curran <curran.kelleher@gmail.com>"
+  ],
+  "description": "Pattern matching library for CoffeeScript.",
+  "main": "match.coffee",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "CoffeeScript",
+    "Functional",
+    "Programming"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

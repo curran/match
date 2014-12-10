@@ -1,0 +1,29 @@
+{
+  "name": "match-coffee",
+  "version": "0.0.0",
+  "description": "Pattern matching library for CoffeeScript.",
+  "main": "match.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/curran/match.git"
+  },
+  "keywords": [
+    "CoffeeScript",
+    "Functional"
+  ],
+  "author": "Curran <curran.kelleher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/curran/match/issues"
+  },
+  "homepage": "https://github.com/curran/match",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-coffee": "^2.2.0",
+    "gulp-umd": "^0.1.3",
+    "gulp-util": "^3.0.1"
+  }
+}
